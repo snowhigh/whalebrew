@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/bfirsh/whalebrew/client"
+	"github.com/snowhigh/whalebrew/client"
 	"github.com/docker/docker/api/types"
 	"github.com/spf13/cobra"
 )

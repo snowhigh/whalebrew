@@ -7,8 +7,8 @@ import (
 	"os/exec"
 	"path"
 
-	"github.com/bfirsh/whalebrew/client"
-	"github.com/bfirsh/whalebrew/packages"
+	"github.com/snowhigh/whalebrew/client"
+	"github.com/snowhigh/whalebrew/packages"
 	dockerClient "github.com/docker/docker/client"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"

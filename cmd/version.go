@@ -3,7 +3,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/bfirsh/whalebrew/version"
+	"github.com/snowhigh/whalebrew/version"
 	"github.com/spf13/cobra"
 )
 
